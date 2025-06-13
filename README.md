@@ -7,6 +7,11 @@
 📧 Email: kuldipak2228@gmail.com | 📞 +91 9145175863  
 
 > 🔄 Always learning. Always building. Always improving.
+>
+> <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kuldipak-AIengineer&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldipak-AIengineer" />
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuldipak_2167) 
