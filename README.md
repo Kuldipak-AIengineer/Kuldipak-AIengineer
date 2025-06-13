@@ -4,7 +4,7 @@
 📍 Passionate about building intelligent systems using **AI & Data Science**  
 💻 Backend & MLOps Enthusiast | Python, FastAPI, Docker, AWS  
 🚀 Active in Hackathons & Real-World Projects  
-📧 Email: kuldipak2228@gmail.com | 📞 +91 9145175863  
+📧 Email: kuldipak2228@gmail.com 
 
 > 🔄 Always learning. Always building. Always improving.
 
